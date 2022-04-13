@@ -1,7 +1,11 @@
 # Solved.ac <br>
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gokimkq123)
 # GitHub 
-<br> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokimkq123)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=cobalt)<br>
+<br> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokimkq123&show_icons=true&theme=dark)](https://github.com/gokimkq123/github-readme-stats)
+
+
+## 개발언어
+
 
 ## 링크
-https://gokimkh.tistory.com/
+Blog : https://gokimkh.tistory.com/
