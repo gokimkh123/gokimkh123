@@ -4,7 +4,7 @@
 <br> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokimkq123&show_icons=true&theme=dark)](https://github.com/gokimkq123)
 
 
-## 개발언어
+## 사용언어
 * c++
 * htm
 * css
