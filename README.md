@@ -5,7 +5,11 @@
 
 
 ## 개발언어
-
+* c++
+* htm
+* css
+* javascript
+* MySql
 
 ## 링크
 Blog : https://gokimkh.tistory.com/
