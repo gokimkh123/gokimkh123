@@ -3,5 +3,5 @@
 # GitHub 
 <br> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokimkq123)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=cobalt)<br>
 
-# 링크
-<br>https://gokimkh.tistory.com/
+## 링크
+https://gokimkh.tistory.com/
