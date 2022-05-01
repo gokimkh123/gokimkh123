@@ -8,7 +8,7 @@
 ## 사용언어
 
 <img src="https://img.shields.io/badge/C++-4479A1?style=for-the-badge&logo=C++&logoColor=black">
-<img src="https://img.shields.io/badge/swift-4479A1?style=orange&logo=swift&logoColor=orange">
+<img src="https://img.shields.io/badge/swift-4479A1?style=for-the-badge&logo=swift&logoColor=orange">
 
 ## 링크
 Blog : https://gokimkh.tistory.com/
