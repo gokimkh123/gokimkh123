@@ -7,7 +7,7 @@
 
 ## 사용언어
 
-<img src="https://img.shields.io/badge/C++-4479A1?style=for-the-badge&logo=C++&logoColor=black">
+<img src="https://img.shields.io/badge/c++-4479A1?style=for-the-badge&logo=c++&logoColor=black">
 <p><img src="https://img.shields.io/badge/python-4479A1?style=for-the-badge&logo=python&logoColor=yellow">  (공부중)</p>
 
 ## 링크
