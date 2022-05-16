@@ -1,6 +1,6 @@
 # 공부 분야
 - python을 이용한 Data science 공부
-- python을 이용한 데이터 수집(rawling)
+- python을 이용한 데이터 수집(crawling)
 
 
 # 사용 언어
