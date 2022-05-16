@@ -4,11 +4,14 @@
 # GitHub 
 <br> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokimkq123&show_icons=true&theme=onedark)](https://github.com/gokimkq123)
 
+## 공부 분야
+-python을 이용한 데이터 사이언스 공부
+-python을 이용한 데이터 수집(크롤링)
+
 
 ## 사용언어
-
-<img src="https://img.shields.io/badge/c++-4479A1?style=for-the-badge&logo=c++&logoColor=black">
-<p><img src="https://img.shields.io/badge/python-4479A1?style=for-the-badge&logo=python&logoColor=yellow">  (공부중)</p>
+-c++
+-python
 
 ## 링크
 Blog : https://gokimkh.tistory.com/
