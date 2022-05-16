@@ -3,7 +3,7 @@
 - python을 이용한 데이터 수집(rawling)
 
 
-# 사용언어
+# 사용 언어
 - c++
 - python
 
