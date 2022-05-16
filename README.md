@@ -5,8 +5,8 @@
 <br> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokimkq123&show_icons=true&theme=onedark)](https://github.com/gokimkq123)
 
 ## 공부 분야
-- python을 이용한 데이터 사이언스 공부
-- python을 이용한 데이터 수집(크롤링)
+- python을 이용한 Data science 공부
+- python을 이용한 데이터 수집(rawling)
 
 
 ## 사용언어
