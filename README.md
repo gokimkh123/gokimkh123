@@ -1,6 +1,6 @@
 # 공부 분야
 - python을 이용한 Data science 공부
-- python을 이용한 데이터 수집(crawling)
+- python을 이용한 인공지능 공부
 
 
 # 사용 언어
