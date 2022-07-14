@@ -1,7 +1,11 @@
 # 공부 분야
 - python을 이용한 Data science 공부
-    
-
+    * machine learninn
+    * deep learning
+    * data visualization
+      + matplotlib
+      + seaborn
+    * pandas, numpy
 
 # 사용 언어
 - c++
