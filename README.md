@@ -1,6 +1,6 @@
 # 공부 분야
 - python을 이용한 Data science 공부
-- python을 이용한 AI 공부
+    
 
 
 # 사용 언어
