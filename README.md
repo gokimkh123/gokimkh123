@@ -14,8 +14,11 @@
 # Solved.ac
 <br>[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gokimkq123)](https://solved.ac/gokimkq123)
 
-# GitHub 
-<br> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokimkq123&show_icons=true&theme=onedark)](https://github.com/gokimkq123)
+# 수상 경력
+- 제10회 산업통상자원부 공공데이터 활용 BI 공모전 빅데이터분석
+    + 대상(산업통상자원부 장관상)
+- 부산 코딩경진 대회
+    + 은상
 
 ## 링크
 Blog : https://gokimkh.tistory.com/
