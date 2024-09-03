@@ -1,3 +1,6 @@
+# CV
+https://gokimkq123.github.io/CV.github.io/
+
 # Awards
 - 제10회 산업통상자원부 공공데이터 활용 BI 공모전 빅데이터분석
     + 대상(산업통상자원부 장관상)
