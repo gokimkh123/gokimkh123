@@ -8,15 +8,7 @@ https://gokimkq123.github.io/CV.github.io/
     + 은상
 - 동아대 코딩 경진대회(ducc)
     + 대상
-# Study
-- python을 이용한 Data science 공부
-    + machine learninn
-    + deep learning
-    + data visualization
-      * matplotlib
-      * seaborn
-    + pandas, numpy
-
+      
 # Language
 - c++
 - python
