@@ -46,7 +46,7 @@ I'm a developer with ~6 years
 
 
 ## Education
-- **Dong-A University**, B.S. in Computer Science (Expected 2028) — Undergraduate researcher, Data Science Lab  
+- **Dong-A University**, B.S. in Computer Science (Expected 2028)
 - **Dongnae High School**, (2019–2022)
 
 ## Certifications
