@@ -21,10 +21,14 @@ I currently **digital twin services** and **conduct research** as an undergradua
 - Busan Coding Competition — **Silver Prize**
 - Dong-A University Coding Competition (DUCC) — **Grand Prize**
 - 2025 SZU-DAU International Summer Camp - **Second Prize**
-![RS](./img/bigdata.jpeg)
-![RS](./img/busan.JPG)
-![RS](./img/ducc.JPG)
-![RS](./img/summer.jpeg)
+
+<div align="center">
+  <img src="./img/bigdata.jpeg" alt="Big Data" width="22%" style="margin: 5px;">
+  <img src="./img/busan.JPG" alt="Busan Coding" width="22%" style="margin: 5px;">
+  <img src="./img/ducc.JPG" alt="DUCC" width="22%" style="margin: 5px;">
+  <img src="./img/summer.jpeg" alt="Summer Camp" width="22%" style="margin: 5px;">
+</div>
+
 
 ## Education
 - **Dong-A University**, B.S. in Computer Science (Expected 2028) — Undergraduate researcher, Data Science Lab  
