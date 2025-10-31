@@ -25,7 +25,6 @@ I currently digital twin services and conduct research as an undergraduate, deve
 
 ## Solved.ac
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gokimkq123)](https://solved.ac/gokimkq123)
-
+<br>[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gokimkq123)](https://solved.ac/gokimkq123)
 ## Link
 - Blog: https://gokimkh.tistory.com/
