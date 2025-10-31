@@ -14,7 +14,7 @@ I currently **digital twin services** and **conduct research** as an undergradua
 ## Research Focus
 - Cold-start problem in recommender systems
   
-![RS](.img/RS.png)
+![RS](./img/RS.png)
 
 ## Awards
 - 10th MOTIE Public Data Utilization BI Contest (Big Data Analysis) — **Grand Prize**
