@@ -10,7 +10,6 @@ Recommender systems · Digital twin
 I'm a developer with ~6 years of experience — ~3 years focused on algorithms (programming contest awards) and ~3 years on data analysis (ministerial award).  
 I currently **digital twin services** and **conduct research** as an undergraduate, developing an **Unreal Engine–based digital twin** and studying **recommender systems**.
 
-> Selected details (education, certifications, and projects) are summarized from my résumé.
 
 ## Research Focus
 - Cold-start problem in recommender systems
