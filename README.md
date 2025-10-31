@@ -52,17 +52,6 @@ I'm a developer with ~6 years
 - **Network Manager, Level 2** (Korea Information & Communication Qualifications Association)  
 - **Craftsman Information Processing** (HRDKorea)
 
-## Language
-- **C++** — Unreal Engine development; studying algorithms and data structures  
-- **Python** — Data analysis; studying supervised & semi-supervised learning  
-- **MySQL** — Relational DB usage: schema design, queries, basic administration
-
-## Tech Snapshot
-- Python: NumPy, pandas, crawling, basic ML workflows  
-- C++: competitive programming background (graphs, DP, greedy)  
-- SQL: MySQL, SQLite; indexing & query tuning basics  
-- Frontend/App: Flutter (Dart), HTML/CSS/JavaScript
-
 ## Solved.ac
 <br>
 
