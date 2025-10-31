@@ -40,6 +40,7 @@ I currently **digital twin services** and **conduct research** as an undergradua
 
 ## Solved.ac
 <br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gokimkq123)](https://solved.ac/gokimkq123)
 
 ## Links
