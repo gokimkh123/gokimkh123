@@ -11,7 +11,7 @@ I'm a developer with ~6 years
 
 1. **On-Campus Activities**  
    - **Undergraduate Researcher, Data Science Lab (2022–Present)** — Analyzed **solar power potential on abandoned railways** and optimized distributed energy systems using Python (Pandas, NumPy, Matplotlib, Folium)  
-   - **DUCC Grand Prize** — Demonstrated strong algorithmic problem-solving skills  
+   - **DUCC Grand Prize** — algorithm problem-solving contest
    - **Extracurricular** — Participated in a **data-driven corporate problem-solving project** for local industries  
 
 2. **Team Projects**
