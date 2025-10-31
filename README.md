@@ -20,7 +20,7 @@ I currently **digital twin services** and **conduct research** as an undergradua
 - 10th MOTIE Public Data Utilization BI Contest (Big Data Analysis) — **Grand Prize**
 - Busan Coding Competition — **Silver Prize**
 - Dong-A University Coding Competition (DUCC) — **Grand Prize**
-
+- 2025 SZU-DAU International Summer Camp - **Second Prize**
 ## Education
 - **Dong-A University**, B.S. in Computer Science (Expected 2028) — Undergraduate researcher, Data Science Lab  
 - **Dongnae High School**, (2019–2022)
