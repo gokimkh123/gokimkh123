@@ -14,13 +14,14 @@ I'm a developer with ~6 years
    - **DUCC Grand Prize** — Demonstrated strong algorithmic problem-solving skills  
    - **Extracurricular** — Participated in a **data-driven corporate problem-solving project** for local industries  
 
-2. **Team Projects**  
-   - **Reinforcement Learning Omok AI (2020)** — *Maker Program* project; published on GitHub  
-   - **Local Market Revitalization App (2020)** — *Smart App Challenge* qualifier  
+2. **Team Projects**
+   - **Digital Twin Backend Development (2024)** — Built a **virtual interaction computation backend** using *Unreal Engine* for digital twin simulations
    - **Arduino Obstacle Detector (2022)** — Built using ultrasonic sensors at *PathHack Hackathon*  
-   - **Algorithm Contest Problem Setter (2022)** — Designed test sets and verified problem logic  
+   - **Algorithm Contest Problem Setter (2022)** — Designed test sets and verified problem logic
+   - **Local Market Revitalization App (2020)** — *Smart App Challenge* qualifier  
+   - **Reinforcement Learning Omok AI (2020)** — *Maker Program* project; published on GitHub  
 
-3. **External Activities**  
+4. **External Activities**  
    - **SW Maestro Applicant (2022)** — Passed document screening and two coding tests; **final interview not passed**  
      - Gained insights on portfolio building and practical preparation  
 
