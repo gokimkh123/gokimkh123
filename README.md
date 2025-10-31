@@ -23,10 +23,10 @@ I currently **digital twin services** and **conduct research** as an undergradua
 - 2025 SZU-DAU International Summer Camp - **Second Prize**
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="./img/bigdata.jpeg" alt="Big Data" style="width: 22%; height: 180px; object-fit: cover; border-radius: 8px;">
-  <img src="./img/busan.JPG" alt="Busan Coding" style="width: 22%; height: 180px; object-fit: cover; border-radius: 8px;">
-  <img src="./img/ducc.JPG" alt="DUCC" style="width: 22%; height: 180px; object-fit: cover; border-radius: 8px;">
-  <img src="./img/summer.jpeg" alt="Summer Camp" style="width: 22%; height: 180px; object-fit: cover; border-radius: 8px;">
+  <img src="./img/bigdata.jpeg" alt="Big Data" style="width: 22%; height: 250px; object-fit: cover; border-radius: 8px;">
+  <img src="./img/busan.JPG" alt="Busan Coding" style="width: 22%; height: 250px; object-fit: cover; border-radius: 8px;">
+  <img src="./img/ducc.JPG" alt="DUCC" style="width: 22%; height: 250px; object-fit: cover; border-radius: 8px;">
+  <img src="./img/summer.jpeg" alt="Summer Camp" style="width: 22%; height: 250px; object-fit: cover; border-radius: 8px;">
 </div>
 
 
