@@ -15,7 +15,7 @@ I'm a developer with ~6 years
    - **Extracurricular** — Participated in a **data-driven corporate problem-solving project** for local industries  
 
 2. **Team Projects**
-   - **Digital Twin Backend Development (2024)** — Built a **virtual interaction computation backend** using *Unreal Engine* for digital twin simulations
+   - **Digital Twin Backend Development (2025)** — Built a **virtual interaction computation backend** using *Unreal Engine* for digital twin simulations
    - **Arduino Obstacle Detector (2022)** — Built using ultrasonic sensors at *PathHack Hackathon*  
    - **Algorithm Contest Problem Setter (2022)** — Designed test sets and verified problem logic
    - **Local Market Revitalization App (2020)** — *Smart App Challenge* qualifier  
@@ -46,7 +46,7 @@ I'm a developer with ~6 years
 
 
 ## Education
-- **Dong-A University**, B.S. in Computer Science (Expected 2028)
+- **Dong-A University**, (2022-) B.S. in Computer Science (Expected 2028)
 - **Dongnae High School**, (2019–2022)
 
 ## Certifications
