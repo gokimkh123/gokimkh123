@@ -60,4 +60,3 @@ I'm a developer with ~6 years
 
 ## Links
 - Blog: https://gokimkh.tistory.com/  
-- Homepage: https://gokimkq123.github.io/CV.github.io/
