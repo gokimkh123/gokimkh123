@@ -21,10 +21,6 @@ I'm a developer with ~6 years
    - **Local Market Revitalization App (2020)** — *Smart App Challenge* qualifier  
    - **Reinforcement Learning Omok AI (2020)** — *Maker Program* project; published on GitHub  
 
-4. **External Activities**  
-   - **SW Maestro Applicant (2022)** — Passed document screening and two coding tests; **final interview not passed**  
-     - Gained insights on portfolio building and practical preparation  
-
 
 ## Research Focus
 - Cold-start problem in recommender systems
