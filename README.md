@@ -1,8 +1,6 @@
 <div align="center">
 
 **Developer & Undergraduate Researcher**  
-Recommender systems · Digital twin
-
 </div>
 
 ---
@@ -21,25 +19,11 @@ I'm a developer with ~6 years
    - **Local Market Revitalization App (2020)** — *Smart App Challenge* qualifier  
    - **Reinforcement Learning Omok AI (2020)** — *Maker Program* project; published on GitHub  
 
-
-## Research Focus
-- Cold-start problem in recommender systems
-  
-![RS](./img/RS.png)
-
 ## Awards
 - 10th MOTIE Public Data Utilization BI Contest (Big Data Analysis) — **Grand Prize**
 - Busan Coding Competition — **Silver Prize**
 - Dong-A University Coding Competition (DUCC) — **Grand Prize**
 - 2025 SZU-DAU International Summer Camp - **Second Prize**
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="./img/bigdata.jpeg" alt="Big Data" style="width: 22%; height: 250px; object-fit: cover; border-radius: 8px;">
-  <img src="./img/busan.JPG" alt="Busan Coding" style="width: 22%; height: 250px; object-fit: cover; border-radius: 8px;">
-  <img src="./img/ducc.JPG" alt="DUCC" style="width: 22%; height: 250px; object-fit: cover; border-radius: 8px;">
-  <img src="./img/summer.jpeg" alt="Summer Camp" style="width: 22%; height: 250px; object-fit: cover; border-radius: 8px;">
-</div>
-
 
 ## Education
 - **Dong-A University**, (2022-) B.S. in Computer Science (Expected 2028)
