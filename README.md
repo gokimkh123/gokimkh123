@@ -33,10 +33,5 @@ I'm a developer with ~6 years
 - **Network Manager, Level 2** (Korea Information & Communication Qualifications Association)  
 - **Craftsman Information Processing** (HRDKorea)
 
-## Solved.ac
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gokimkq123)](https://solved.ac/gokimkq123)
-
 ## Links
 - Blog: https://gokimkh.tistory.com/  
