@@ -16,5 +16,5 @@
 <div align="center">
   <img width="440" src="https://skillicons.dev/icons?i=python,cpp,pytorch,sklearn,fastapi,nextjs,react,postgres,mysql,docker,linux,git,unreal&perline=5" />
 
-  <sub>Network Switch (PuTTY) · Cesium for Unreal · Neo4j</sub>
+  <sub>Network Switch (PuTTY) · Cesium for Unreal</sub>
 </div>
