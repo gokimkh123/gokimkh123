@@ -14,17 +14,5 @@
 <h3 align="center">Skills</h3>
 
 <div align="center">
-
-<img height="32" src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white">
-<img height="32" src="https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=white">
-<img height="32" src="https://img.shields.io/badge/Machine%20Learning-1a1a1a?style=flat-square&logo=pytorch&logoColor=white">
-
-<img height="32" src="https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=white">
-<img height="32" src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white">
-
-<img height="32" src="https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white">
-<img height="32" src="https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=white">
-<img height="32" src="https://img.shields.io/badge/Unreal%20Engine-1a1a1a?style=flat-square&logo=unrealengine&logoColor=white">
-<img height="32" src="https://img.shields.io/badge/Network%20Switch-1a1a1a?style=flat-square&logo=cisco&logoColor=white">
-
+  <img width="420" src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,mysql,postgres,docker,git,unreal&perline=5" />
 </div>
