@@ -4,8 +4,8 @@
 
 **동아대학교 컴퓨터공학 · Data Science Lab 학부연구생**
 
-<a href="https://gravel-playground-bc0.notion.site/2efc7972232c80e09879e2631a4f266e"><img height="32" src="https://img.shields.io/badge/Portfolio-1a1a1a?style=flat-square&logo=notion&logoColor=white"></a>
-<a href="https://gokimkh.tistory.com/"><img height="32" src="https://img.shields.io/badge/Blog-1a1a1a?style=flat-square&logo=tistory&logoColor=white"></a>
+<a href="https://gravel-playground-bc0.notion.site/2efc7972232c80e09879e2631a4f266e"><img height="48" src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=notion&logoColor=white"></a>
+<a href="https://gokimkh.tistory.com/"><img height="48" src="https://img.shields.io/badge/Blog-1a1a1a?style=for-the-badge&logo=tistory&logoColor=white"></a>
 
 </div>
 
