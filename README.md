@@ -1,6 +1,6 @@
 <div align="center">
 
-# Geonhan
+# Geonhan Kim
 
 **동아대학교 컴퓨터공학 · Data Science Lab 학부연구생**
 
@@ -14,5 +14,7 @@
 <h3 align="center">Skills</h3>
 
 <div align="center">
-  <img width="420" src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,mysql,postgres,docker,git,unreal&perline=5" />
+  <img width="440" src="https://skillicons.dev/icons?i=python,cpp,pytorch,sklearn,fastapi,nextjs,react,postgres,mysql,docker,linux,git,unreal&perline=5" />
+
+  <sub>Network Switch (PuTTY) · Cesium for Unreal · Neo4j</sub>
 </div>
